@@ -16,4 +16,7 @@ Please click on the images on right side to view my solution.
 5) What will be predicted score if a student studies for 9.25 hrs/ day?
 
 
-Youtube link : https://youtu.be/pIzOvKP7pKo
+ Youtube link : https://youtu.be/pIzOvKP7pKo
+ 
+ 
+ Github link :  https://github.com/Sayan07kkr/The-Spark-Foundation/blob/main/TASK1.ipynb
